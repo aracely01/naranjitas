@@ -15,3 +15,5 @@ este proyecto cambiara muchas cosas
 - para desplegar la aplicacion se realiza lo siguiente
 ## Cambios ultimos
 - cambios aplicados en la clase despues del profesor
+## cambios en dev.1
+-los cambios son xxx
