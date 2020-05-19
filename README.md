@@ -1,4 +1,4 @@
-# Naranjitas
+# Requerimientos
 este proyecto cambiara muchas cosas
 # Creditos
     -bichito
