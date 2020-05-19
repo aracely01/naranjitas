@@ -5,7 +5,9 @@ este proyecto cambiara muchas cosas
     -pepito
     -grillo
 # Requerimientos
-| Day     | Meal    | Price |
-| --------|---------|-------|
-| Monday  | pasta   | $6    |
-| Tuesday | chicken | $8    |
+| software  | version    | pagina web|
+| ----------|------------|------
+| site123   | 2          | $6    
+| wordpress | 5          | $   
+|jimdo      |            |
+|wix        |
