@@ -1,4 +1,4 @@
-# naranjitas
+# Naranjitas
 este proyecto cambiara muchas cosas
 # Creditos
     -bichito
@@ -13,3 +13,5 @@ este proyecto cambiara muchas cosas
 |wix        |
 ## como despegar la aplicacion
 - para desplegar la aplicacion se realiza lo siguiente
+## Cambios ultimos
+- cambios aplicados en la clase
