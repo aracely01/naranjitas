@@ -11,3 +11,5 @@ este proyecto cambiara muchas cosas
 | wordpress | 5          | $   
 |jimdo      |            |
 |wix        |
+## como despegar la aplicacion
+- para desplegar la aplicacion se realiza lo siguiente
