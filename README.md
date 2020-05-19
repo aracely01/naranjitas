@@ -14,4 +14,4 @@ este proyecto cambiara muchas cosas
 ## como despegar la aplicacion
 - para desplegar la aplicacion se realiza lo siguiente
 ## Cambios ultimos
-- cambios aplicados en la clase
+- cambios aplicados en la clase despues del profesor
