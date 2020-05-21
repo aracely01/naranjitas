@@ -1,9 +1,9 @@
 # Requerimientos
 este proyecto cambiara muchas cosas
 # Creditos
-    -bichito
-    -pepito
-    -grillo
+    -Del Aguila Romero
+    -Medina Vivanco
+    -Valladolid Sinche
 # Requerimientos
 | software  | version    | pagina web|
 | ----------|------------|------
@@ -13,7 +13,8 @@ este proyecto cambiara muchas cosas
 |wix        |
 ## como despegar la aplicacion
 - para desplegar la aplicacion se realiza lo siguiente
-## Cambios ultimos
-- cambios aplicados en la clase despues del profesor
-## cambios en dev.1
 -los cambios son "naranjitas"
+### Requerimientos Funcionales
+- Registrar los datos del cliente
+- Verificar Historial clinico
+-Registrar la reserva 
