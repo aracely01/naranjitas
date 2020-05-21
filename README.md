@@ -14,7 +14,7 @@ este proyecto cambiara muchas cosas
 ## como despegar la aplicacion
 - para desplegar la aplicacion se realiza lo siguiente
 -los cambios son "naranjitas"
-### Requerimientos 
+# Requerimientos 
 | Funcionales                                           | No Funcilonales
 | El Aplicativo reservara la cita						|El aplicativo gestionara el historial clinico de manera rapida
 | El Aplicativo permitira logearse con gmail			|El aplicativo sera de uso facil
